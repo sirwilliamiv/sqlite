@@ -1,0 +1,23 @@
+{
+  "name": "sqlite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sirwilliamiv/sqlite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sirwilliamiv/sqlite/issues"
+  },
+  "homepage": "https://github.com/sirwilliamiv/sqlite#readme",
+  "dependencies": {
+    "sqlite3": "^3.1.8"
+  }
+}
